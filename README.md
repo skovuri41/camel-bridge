@@ -1,2 +1,2 @@
 # camel-bridge
-Using apache camel to bridge jms and kafka endpoints.
+Using Apache Camel to bridge jms and kafka endpoints.
